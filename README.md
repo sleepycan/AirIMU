@@ -7,6 +7,16 @@
 
 ![AirIMU](./doc/model.png)
 
+## 📢 Latest News 
+- [2025-02-01] Introducing Our New Project - 🚀 [**AirIO : Learning Inertial Odometry with Enhanced IMU Feature Observability**](https://github.com/Air-IO/Air-IO)<br>
+ ```
+AirIO achieves up to 86.6% performance boost over SOTA methods:
+
+- ✅ Tailored specifically for drones
+- ✅ No external sensors or control inputs required
+- ✅ Generalizes to unseen trajectories
+- ✅ Explicitly encodes UAV attitude and predicts velocity in body-frame representation
+```
 
 ## Installation
 
